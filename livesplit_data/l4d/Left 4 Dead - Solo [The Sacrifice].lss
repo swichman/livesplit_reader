@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead</GameName>
+  <CategoryName>Solo [The Sacrifice]</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Docks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Barge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Port</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="originalCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version1005" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

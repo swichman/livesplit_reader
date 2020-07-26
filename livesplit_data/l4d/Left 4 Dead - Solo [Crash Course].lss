@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead</GameName>
+  <CategoryName>Solo [Crash Course]</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/26/2020 12:53:08" isStartedSynced="True" ended="07/26/2020 13:16:10" isEndedSynced="True">
+      <RealTime>00:23:02.2500000</RealTime>
+      <GameTime>00:22:54.1970000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Alleys</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:32.5720000</RealTime>
+          <GameTime>00:10:32.5720000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:32.5720000</RealTime>
+        <GameTime>00:10:32.5720000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:32.5720000</RealTime>
+          <GameTime>00:10:32.5720000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Truck Depot</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:02.2500000</RealTime>
+          <GameTime>00:22:54.1970000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:29.6780000</RealTime>
+        <GameTime>00:12:21.6250000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:29.6780000</RealTime>
+          <GameTime>00:12:21.6250000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="originalCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version1005" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

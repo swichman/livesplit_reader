@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead</GameName>
+  <CategoryName>Solo [Death Toll]</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/26/2020 13:17:30" isStartedSynced="True" ended="07/26/2020 13:59:17" isEndedSynced="True">
+      <RealTime>00:41:46.9510000</RealTime>
+      <GameTime>00:41:16.6460000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Turnpike</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:06.9460000</RealTime>
+          <GameTime>00:06:06.9460000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:06.9460000</RealTime>
+        <GameTime>00:06:06.9460000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:06.9460000</RealTime>
+          <GameTime>00:06:06.9460000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Drains</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:40.2010000</RealTime>
+          <GameTime>00:14:34.0220000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:33.2550000</RealTime>
+        <GameTime>00:08:27.0760000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:33.2550000</RealTime>
+          <GameTime>00:08:27.0760000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Church</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:42.4050000</RealTime>
+          <GameTime>00:20:28.0440000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:02.2040000</RealTime>
+        <GameTime>00:05:54.0220000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:02.2040000</RealTime>
+          <GameTime>00:05:54.0220000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Town</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:29.0780000</RealTime>
+          <GameTime>00:31:06.6240000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:46.6730000</RealTime>
+        <GameTime>00:10:38.5800000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:46.6730000</RealTime>
+          <GameTime>00:10:38.5800000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Boathouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:46.9510000</RealTime>
+          <GameTime>00:41:16.6460000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:17.8730000</RealTime>
+        <GameTime>00:10:10.0220000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:17.8730000</RealTime>
+          <GameTime>00:10:10.0220000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="originalCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version1005" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

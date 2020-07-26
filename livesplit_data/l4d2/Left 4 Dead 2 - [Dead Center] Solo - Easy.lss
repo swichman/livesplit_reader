@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead 2</GameName>
+  <CategoryName>[Dead Center] Solo - Easy</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/26/2020 18:39:00" isStartedSynced="True" ended="07/26/2020 21:31:09" isEndedSynced="True">
+      <RealTime>00:33:39.1440000</RealTime>
+      <GameTime>00:33:12.1360000</GameTime>
+      <PauseTime>02:18:30.0290000</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Hotel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:33.1920000</RealTime>
+          <GameTime>00:06:33.1920000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:33.1920000</RealTime>
+        <GameTime>00:06:33.1920000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:33.1920000</RealTime>
+          <GameTime>00:06:33.1920000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Streets</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:28.0010000</RealTime>
+          <GameTime>00:17:18.4940000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:54.8090000</RealTime>
+        <GameTime>00:10:45.3020000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:54.8090000</RealTime>
+          <GameTime>00:10:45.3020000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Mall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:13.9080000</RealTime>
+          <GameTime>00:27:54.6070000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:45.9070000</RealTime>
+        <GameTime>00:10:36.1130000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:45.9070000</RealTime>
+          <GameTime>00:10:36.1130000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Atrium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:39.1440000</RealTime>
+          <GameTime>00:33:12.1360000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:25.2360000</RealTime>
+        <GameTime>00:05:17.5290000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:25.2360000</RealTime>
+          <GameTime>00:05:17.5290000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D2.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="mainCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="foxyStart2" type="bool">True</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version2000" type="bool">False</Setting>
+      <Setting id="version2008" type="bool">False</Setting>
+      <Setting id="version2012" type="bool">False</Setting>
+      <Setting id="version2027" type="bool">False</Setting>
+      <Setting id="version2045" type="bool">False</Setting>
+      <Setting id="version2075" type="bool">False</Setting>
+      <Setting id="version2091" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+      <Setting id="debugStart" type="bool">False</Setting>
+      <Setting id="debugSplit" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

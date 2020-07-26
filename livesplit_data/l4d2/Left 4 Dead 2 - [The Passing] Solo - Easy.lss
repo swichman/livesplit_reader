@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead 2</GameName>
+  <CategoryName>[The Passing] Solo - Easy</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/26/2020 21:33:44" isStartedSynced="True" ended="07/26/2020 22:10:54" isEndedSynced="True">
+      <PauseTime>00:10:49.6050000</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Riverbank</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:54.0720000</RealTime>
+          <GameTime>00:08:54.0720000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:54.0720000</RealTime>
+        <GameTime>00:08:54.0720000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:54.0720000</RealTime>
+          <GameTime>00:08:54.0720000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Underground</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:03.1510000</RealTime>
+          <GameTime>00:25:54.9370000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:09.0790000</RealTime>
+        <GameTime>00:17:00.8650000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:17:09.0790000</RealTime>
+          <GameTime>00:17:00.8650000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Port</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D2.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="mainCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="foxyStart2" type="bool">True</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version2000" type="bool">False</Setting>
+      <Setting id="version2008" type="bool">False</Setting>
+      <Setting id="version2012" type="bool">False</Setting>
+      <Setting id="version2027" type="bool">False</Setting>
+      <Setting id="version2045" type="bool">False</Setting>
+      <Setting id="version2075" type="bool">False</Setting>
+      <Setting id="version2091" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+      <Setting id="debugStart" type="bool">False</Setting>
+      <Setting id="debugSplit" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>

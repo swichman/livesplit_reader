@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Left 4 Dead</GameName>
+  <CategoryName>Solo [No Mercy]</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/26/2020 03:27:51" isStartedSynced="True" ended="07/26/2020 04:15:11" isEndedSynced="True">
+      <RealTime>00:42:51.9540000</RealTime>
+      <GameTime>00:42:26.8600000</GameTime>
+      <PauseTime>00:04:28.7540000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="07/26/2020 04:26:15" isStartedSynced="True" ended="07/26/2020 05:07:17" isEndedSynced="True">
+      <PauseTime>00:01:33.3750000</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Apartments</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:40.3790000</RealTime>
+          <GameTime>00:05:40.3790000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.3730000</RealTime>
+        <GameTime>00:02:53.3730000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:40.3790000</RealTime>
+          <GameTime>00:05:40.3790000</GameTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:53.3730000</RealTime>
+          <GameTime>00:02:53.3730000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Subway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:30.1460000</RealTime>
+          <GameTime>00:15:23.3830000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:45.4590000</RealTime>
+        <GameTime>00:06:45.4590000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:49.7670000</RealTime>
+          <GameTime>00:09:43.0040000</GameTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:45.4590000</RealTime>
+          <GameTime>00:06:45.4590000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sewer</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:09.1230000</RealTime>
+          <GameTime>00:24:55.5910000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:27.9570000</RealTime>
+        <GameTime>00:09:21.0990000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:38.9770000</RealTime>
+          <GameTime>00:09:32.2080000</GameTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:09:27.9570000</RealTime>
+          <GameTime>00:09:21.0990000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Hospital</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:26.1830000</RealTime>
+          <GameTime>00:35:05.6810000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:36.4790000</RealTime>
+        <GameTime>00:08:36.4790000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:17.0600000</RealTime>
+          <GameTime>00:10:10.0900000</GameTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:08:36.4790000</RealTime>
+          <GameTime>00:08:36.4790000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rooftop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:51.9540000</RealTime>
+          <GameTime>00:42:26.8600000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:25.7710000</RealTime>
+        <GameTime>00:07:21.1790000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:25.7710000</RealTime>
+          <GameTime>00:07:21.1790000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\myfri\Desktop\splits\livesplit\Components\L4D.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="campaignSplit" type="bool">True</Setting>
+      <Setting id="chapterSplit" type="bool">True</Setting>
+      <Setting id="scoreboardVSgameLoading" type="bool">True</Setting>
+      <Setting id="splitOnce" type="bool">False</Setting>
+      <Setting id="ILs" type="bool">False</Setting>
+      <Setting id="originalCampaigns" type="bool">False</Setting>
+      <Setting id="allCampaigns" type="bool">False</Setting>
+      <Setting id="cutscenelessStart" type="bool">False</Setting>
+      <Setting id="alternateVersionCheck" type="bool">False</Setting>
+      <Setting id="version1005" type="bool">False</Setting>
+      <Setting id="versionNewest" type="bool">False</Setting>
+      <Setting id="debug" type="bool">False</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
