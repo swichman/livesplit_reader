@@ -3,9 +3,11 @@
   <head>
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script type="text/javascript" src="/javascripts/splitParse.js"></script>
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <button onclick="document.querySelector('.inputFile').click();">Select File ...</button>
+    <input class="inputFile" type="file" style="display: none;">
+    <button onclick="readxml(inputFile.value())">Run Script</button>
   </body>
 </html>
